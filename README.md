@@ -11,7 +11,7 @@ Created CRUD APIs in routes>todos.js
 Enabled CORS support and added body parser to express to accept JSON from HTTP Req.
 Connected Backend Mongo with mongoose library.
 Created react app using reactjs
-I have already did work on CRUD app in semester project
+I have already did some work on CRUD app in semester project
 
 
 Queston # 1
